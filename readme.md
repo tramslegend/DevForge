@@ -6,6 +6,10 @@
 
 Born from frustration with cloud tools and constant copy-pasting. Built during weekend vibe-coding sessions (name inspired by Skyrim armor crafting 😅).
 
+## 🎬 Demo
+
+![DevForge Demo](devForge_demo.gif)
+
 ## ✨ Features
 
 - **📚 Incremental Context Updates** - Only re-embeds changed files (hash-based delta detection)
